@@ -1,0 +1,8 @@
+Textming文件夹为情感词典的文档
+代码文件共三个：数据爬取，数据处理，情感分析，请老师依此次序查看
+df.csv 为爬取的原始csv
+comments without punc.csv  为经过数据处理过后的csv
+negtive_comment.csv 为分类过后的消息评论
+positive_comment.csv 为分类过后的消极评论
+关键词频次.csv 为统计的关键词出现频率
+其余txt文件均为辅助文件，可不查看
